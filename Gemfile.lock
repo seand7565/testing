@@ -1,12 +1,13 @@
 GIT
   remote: https://github.com/nebulab/solidus_paypal_commerce_platform
-  revision: 184a6da7fc1f9f4653b889fd79ae323fa3cbcde1
+  revision: ef9bbbf4a866330dcba724e07ef44aae60fa2fba
   specs:
     solidus_paypal_commerce_platform (0.0.1)
       deface (~> 1.5)
       paypal-checkout-sdk
       solidus_core (>= 2.0.0, < 3)
-      solidus_support (~> 0.5.0)
+      solidus_support (~> 0.5)
+      solidus_webhooks (~> 0.2.0)
 
 GEM
   remote: https://rubygems.org/
@@ -326,6 +327,9 @@ GEM
       solidus_core (= 2.10.1)
     solidus_support (0.5.1)
       activesupport (>= 5.2, < 7.0.x)
+    solidus_webhooks (0.2.0)
+      solidus_core (>= 2.0.0, < 3)
+      solidus_support (~> 0.5.0)
     spring (2.1.0)
     spring-watcher-listen (2.0.1)
       listen (>= 2.7, < 4.0)
