@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nebulab/solidus_paypal_commerce_platform
-  revision: ef9bbbf4a866330dcba724e07ef44aae60fa2fba
+  revision: e02e9407417bf16863329e8fa7391806d4fd4129
   specs:
     solidus_paypal_commerce_platform (0.0.1)
       deface (~> 1.5)
