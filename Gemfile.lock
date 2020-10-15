@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/nebulab/solidus_paypal_commerce_platform
-  revision: 8d35862926a5e503cb8dcd991cfb5f3b069582aa
+  revision: fa5d9fa923cbd9709a7b7a02ee08f8b933f0e394
   specs:
-    solidus_paypal_commerce_platform (0.0.1)
+    solidus_paypal_commerce_platform (0.2.0)
       deface (~> 1.5)
       paypal-checkout-sdk
       solidus_core (>= 2.0.0, < 3)
